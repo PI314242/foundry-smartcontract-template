@@ -47,9 +47,7 @@ $ anvil
 
 ### Deploy
 
-```shell
-forge script script/Counter.s.sol:CounterScript --rpc-url http://localhost:8545 --private-key <replace your wallet private key>
-```
+
 
 ### Cast
 
